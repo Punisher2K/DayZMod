@@ -615,9 +615,9 @@ class CfgVehicles {
 	};
 	//An2_TK_EP1
 	class An2_Base_EP1;
-	class AN2_DZ: An2_Base_EP1
+	class An2_DZ: An2_Base_EP1
 	{
-		displayname = "AN2 Cargo Plane";
+		displayname = "An2 Cargo Plane";
 		displaynameshort = "AN2_DZ";
 		scope = 2;
 		side = 2;
