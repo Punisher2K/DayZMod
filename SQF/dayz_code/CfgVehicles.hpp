@@ -617,8 +617,8 @@ class CfgVehicles {
 	class An2_Base_EP1;
 	class An2_DZ: An2_Base_EP1
 	{
-		displayname = "An2 Cargo Plane";
-		displaynameshort = "AN2_DZ";
+		displayname = "An-2 Cargo Plane";
+		displaynameshort = "An2_DZ";
 		scope = 2;
 		side = 2;
 		crew = "";
